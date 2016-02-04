@@ -1,2 +1,3 @@
-# CSS-to-the-Rescue
-HTML voor de CSS to the Rescue opdracht
+# CSS-to-the-Rescue url to website
+http://spotitshopit.com/css-to-the-rescue/
+
